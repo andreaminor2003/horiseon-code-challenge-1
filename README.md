@@ -33,13 +33,4 @@ Screenshot of the issue: https://github.com/andreaminor2003/horiseon-code-challe
 
 Github location of Challenge: https://github.com/andreaminor2003/horiseon-code-challenge-1.git
 
-<<<<<<< HEAD
-Homework Location of Challenge: C:\Users\andre\onedrive\homework\horiseon-code-challenge-1\index.html
 
-Please Contact
-Andrea Minor on GitHub
-=======
-
-Please Contact
-Andrea Minor on GitHub
->>>>>>> eeb1062815f7ff4c16f3f5d3ffcdcee5d0dc6656
