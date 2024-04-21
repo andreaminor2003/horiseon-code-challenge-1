@@ -29,7 +29,7 @@ New source code
 Added new and accessible image that properly utilize alt attributes
 
 
-Screenshot of the issue: https://github.com/andreaminor2003/horiseon-code-challenge-1.git/Horiseon_challenge.jpg
+Screenshot of the issue: https://github.com/andreaminor2003/horiseon-code-challenge-1/blob/main/Horiseon_challenge.jpeg
 
 Github location of Challenge: https://github.com/andreaminor2003/horiseon-code-challenge-1.git
 
