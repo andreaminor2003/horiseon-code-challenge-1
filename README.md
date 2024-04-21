@@ -29,10 +29,11 @@ New source code
 Added new and accessible image that properly utilize alt attributes
 
 
+Screenshot of the issue: https://github.com/andreaminor2003/horiseon-code-challenge-1.git/Horiseon_challenge.jpg
 
-https://github.com/andreaminor2003/horiseon-code-challenge-1.git
+Github location of Challenge: https://github.com/andreaminor2003/horiseon-code-challenge-1.git
 
-C:\Users\andre\onedrive\homework\horiseon-code-challenge-1\index.html
+Homework Location of Challenge: C:\Users\andre\onedrive\homework\horiseon-code-challenge-1\index.html
 
 Please Contact
 Andrea Minor on GitHub
