@@ -33,7 +33,6 @@ Screenshot of the issue: https://github.com/andreaminor2003/horiseon-code-challe
 
 Github location of Challenge: https://github.com/andreaminor2003/horiseon-code-challenge-1.git
 
-Homework Location of Challenge: C:\Users\andre\onedrive\homework\horiseon-code-challenge-1\index.html
 
 Please Contact
 Andrea Minor on GitHub
